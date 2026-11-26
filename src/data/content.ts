@@ -26,7 +26,7 @@ export const SERVICES: Service[] = [
     description:
       'Более 4 000 позиций на собственном складе: цемент, кирпич, бетон, гипсокартон, утеплитель. Опт от одного поддона.',
     price: 'по прайс-листу',
-    image: '/images/products.jpg',
+    image: 'images/products.jpg',
   },
   {
     slug: 'delivery',
@@ -34,7 +34,7 @@ export const SERVICES: Service[] = [
     description:
       'Собственный автопарк: манипуляторы, бортовые и длинномеры. Отгрузка в день оплаты, доставка за 24 часа.',
     price: 'от 1 500 ₽',
-    image: '/images/service-dostavka.jpg',
+    image: 'images/service-dostavka.jpg',
   },
   {
     slug: 'remont',
@@ -42,7 +42,7 @@ export const SERVICES: Service[] = [
     description:
       'Косметический и капитальный ремонт квартир, офисов и коммерческих помещений. Договор, смета, гарантия на работы 2 года.',
     price: 'от 3 500 ₽/м²',
-    image: '/images/service-remont.jpg',
+    image: 'images/service-remont.jpg',
   },
   {
     slug: 'otdelka',
@@ -50,7 +50,7 @@ export const SERVICES: Service[] = [
     description:
       'Штукатурка, стяжка, укладка полов, покраска, обои, плитка. Бригады с допусками, уборка после себя.',
     price: 'от 1 200 ₽/м²',
-    image: '/images/service-otdelka.jpg',
+    image: 'images/service-otdelka.jpg',
   },
   {
     slug: 'stroitelstvo',

@@ -11,14 +11,14 @@ export default function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden">
         <img
-          src="/images/hero.jpg"
+          src="images/hero.jpg"
           alt="Склад строительных материалов УралСтройМаркет: стеллажи с кирпичом, цементом и гипсокартоном"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-foreground/70" aria-hidden />
         <div className="relative mx-auto flex max-w-6xl flex-col gap-6 px-4 py-20 md:px-6 md:py-28">
           <img
-            src="/images/cat-foreman.png"
+            src="images/cat-foreman.png"
             alt="Кот в строительной каске — талисман УралСтройМаркет"
             className="pointer-events-none absolute bottom-0 right-2 hidden w-52 select-none drop-shadow-2xl md:block lg:right-6 lg:w-72"
           />

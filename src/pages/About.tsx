@@ -46,7 +46,7 @@ export default function About() {
           </div>
           <figure className="border border-border bg-card p-3">
             <img
-              src="/images/about.jpg"
+              src="images/about.jpg"
               alt="Команда УралСтройМаркет на складе строительных материалов"
               className="aspect-[3/2] w-full object-cover"
             />
